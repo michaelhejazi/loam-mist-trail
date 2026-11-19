@@ -1,8 +1,8 @@
 ---
 id: mist-trail
 name: Mist Trail
-version: 1.0.1
-author: Loam contributors
+version: 1.0.2
+author: Michael Hejazi
 api: 0
 kind: [theme]
 image: cover.webp
